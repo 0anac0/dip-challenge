@@ -14,6 +14,6 @@ Then, when the button 'salvar' is clicked, the application opens a mockup image 
 
 ## Additional questions
 
-1. 
-
-
+To avoid the possibility of the customization being plotted on certain regions, I would get the user's input of the model of the phone and make a mask of the regions that should be blocked on the phone case. Then, if the user's customization collided with these objects, the customization would not register. 
+To the problem with small and big names, I would probably set fixed maximum and minimum widths for the name, and before plotting the name, the application would, based on the font size and name size, regulate the name object to fit on the range setted. 
+And, for the last problem related with the difference between the preview and the real colors of the products, I would take pictures of the product under different lighting ambients and put it on display, so that the user's expectancy could be more accurate.
