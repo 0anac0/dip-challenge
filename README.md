@@ -3,7 +3,7 @@
 For the code challenge I decided on making a simple, yet efficient, GUI, so that the input could be easily acquired. 
 
 ## how to use the application
-!(examples/GUI.png)
+![GUI Image](examples/GUI.png)
 
 While running the application, the user should see a GUI like the one above. Then, when clicking on 'Escolha a imagem> procure o arquivo', a file picker should open itself, and the user will choose a mockup image to test.
 After that, upon clicking on the next button, the user should choose also the font file (in ttf) with another file picker.
