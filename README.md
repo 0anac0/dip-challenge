@@ -10,7 +10,7 @@ After that, upon clicking on the next button, the user should choose also the fo
 Then, the first text box should be filled with the name one might want to see in their mockup, the second one with the x position, and the third with the y position. The last text box, then, refers to the font size.
 Then, when the button 'salvar' is clicked, the application opens a mockup image like the one bellow, and the image saves itself on the application's root file.
 
-!(examples/mockup.png)
+![Mockup Image](examples/mockup.png)
 
 ## Additional questions
 
